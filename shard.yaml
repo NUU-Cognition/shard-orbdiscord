@@ -1,0 +1,5 @@
+shard-spec: "0.2.0"
+version: "0.1.0"
+name: OrbDiscord
+shorthand: odisc
+description: Session context and media-fence output grammar for Orbh sessions launched by the orb-discord adapter
