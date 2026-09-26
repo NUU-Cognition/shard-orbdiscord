@@ -1,9 +1,9 @@
 shard-spec: "0.3.0"
 id: d8936933-583f-4fe8-b7ef-b1a623ffeac9
-org: nuu-cognition
+org: nuucognition
 source:
   id: df7c0801-5619-4226-bfd5-cf6b663de31a
-version: "0.1.0"
+version: "0.1.1"
 name: OrbDiscord
 shorthand: odisc
 description: Session context and media-fence output grammar for Orbh sessions launched by the orb-discord adapter
